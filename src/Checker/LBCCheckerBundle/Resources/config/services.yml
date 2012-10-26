@@ -1,0 +1,7 @@
+parameters:
+#    lbc_checker.example.class: Checker\LBCCheckerBundle\Example
+
+services:
+#    lbc_checker.example:
+#        class: %lbc_checker.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
